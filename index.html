@@ -45,7 +45,7 @@
 <body>
 <header class="topnav">
     <a class="active" href="index.html">Home</a>
-    <a href="publications/test_publi.html">Publications</a>
+    <a href="#publications">Publications</a>
     <a href="#teaching">Teaching</a>
     <a href="#projects">Projects</a>
 </header>
@@ -54,26 +54,69 @@
     <div class="row">
         <div class="col-3 text-center mx-5">
             <img class="rounded" src="bucketHat.png" alt="Avatar" width="200px">
-            <h2>
-                <centre><strong>Hugo Schott</strong></centre>
+            <h2 class="main_name">
+                <strong>Hugo Schott</strong>
             </h2>
-            <p><a href="mailto:hugo.schott@liris.cnrs.fr">hugo.schott@liris.cnrs.fr</a></p>
+            <p>
+                LIRIS, Lyon, France
+            </p>
+            <p class="mail">
+                hugo.schott@liris.cnrs.fr
+            </p>
         </div>
 
-        <div class="col mx-4">
-            <p>Some text...</p>
-            <h2 class="subtitle">Column 2</h2>
-            <p>Some text...</p>
-            <p>Some text...</p>
+        <div class="col">
+            <p class="top_par">I'm a PhD student in Computer Graphics at Université Lyon 1.
+                My subject is about virtual terrain edition, with a strong focus
+                on erosion simulation.
+            </p>
+
+
+            <h2 class="subtitle">Thesis</h2>
+            <p class="random_par">At the moment, I have published about a large-scale interactive erosion
+                simulation to edit mountain ranges. I am currently working on stream
+                power erosion, glacial erosion, braided rivers and multi-scale erosion.
+
+            </p>
+
+
             <h2 class="subtitle">Teaching</h2>
-            <p>Some text...</p>
-            <p>Some text...</p>
+            <p>I am participating in teaching activities at university, with
+                bachelor and master students.</p>
+            <ul class="random_par">
+                <li>Algorithms, complexity, basic C++ (L2)</li>
+                <li>Numerical methods - Linear system solving, Interpolation (L3)</li>
+                <li>Algorithms, programming, complexity, C++ (L3)</li>
+                <li>Computer Graphics basis - Signed Distance Functions (L3)</li>
+                <li>Computer Graphics - Ray tracing (M1)</li>
+                <li>Advanced C++ programming (M1)</li>
+            </ul>
+
+            <h2 class="subtitle">Publications</h2>
+            <div class="container">
+                <div class="row">
+                    <div class="col-5">
+                        <img class="mini_publi" src="uplift_mini.png" width="300px">
+                    </div>
+                    <div class="col">
+                        <p class="publi_title">
+                            Large-scale terrain authoring through interactive erosion simulation
+                        </p>
+                        <p class="publi_authors">
+                            H. Schott, A. Paris, L. Fournier, E. Guérin, E. Galin.
+                        </p>
+                        <p class="publi_journal">
+                            ACM Transactions on Graphics, 42(5), 2023.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
 
 <footer class="fixed-bottom text-center">
-    <p>Footer</p>
+    <p><!--Źle mówię po polsku--></p>
 </footer>
 </body>
 

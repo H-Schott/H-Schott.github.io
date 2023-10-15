@@ -84,11 +84,46 @@ body {
 }
 
 footer {
-    padding-top: 15px;
+    padding-top: 5px;
     background-color: #333;
     color: #ffffff;
 }
 
 .subtitle{
-    color: #70b8dd;
+    color: #000000;
+    padding: 10px;
+}
+
+.top_par{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.random_par{
+    margin-bottom: 50px;
+}
+
+.mail{
+    padding: 20px;
+    text-align: center;
+    font-family: "Lucida Sans Typewriter";
+}
+
+.main_name{
+    padding-bottom: 20px;
+    font-family: "Calibri";
+    font-weight: bolder;
+}
+
+.publi_title{
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+.publi_authors{
+    font-style: italic;
+}
+
+.publi_journal{
+    font-style: normal;
 }
