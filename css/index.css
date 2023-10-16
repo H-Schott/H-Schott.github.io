@@ -4,15 +4,6 @@ html {
     font-weight: 300;
 }
 
-a {
-    text-decoration: none;
-    color: #1565c0;
-}
-
-a:hover {
-    color: #217ee7;
-}
-
 #content {
     position: absolute;
     top: 50%;
@@ -117,21 +108,21 @@ footer {
     font-weight: bolder;
 }
 
-.publi_title{
+.mini_publi_title{
     font-size: x-large;
     text-decoration: underline;
     color: #000000;
 }
 
-.publi_title:hover{
+.mini_publi_title:hover{
     color: #000000;
 }
 
-.publi_authors{
+.mini_publi_authors{
     font-style: italic;
 }
 
-.publi_journal{
+.mini_publi_journal{
     font-style: normal;
 }
 
