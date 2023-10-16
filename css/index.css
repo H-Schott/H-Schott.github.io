@@ -92,6 +92,8 @@ footer {
 .subtitle{
     color: #000000;
     padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
 
 .top_par{
@@ -100,7 +102,7 @@ footer {
 }
 
 .random_par{
-    margin-bottom: 50px;
+    /*margin-bottom: 50px;*/
 }
 
 .mail{
@@ -118,6 +120,11 @@ footer {
 .publi_title{
     font-size: x-large;
     text-decoration: underline;
+    color: #000000;
+}
+
+.publi_title:hover{
+    color: #000000;
 }
 
 .publi_authors{
