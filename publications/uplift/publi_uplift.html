@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <!-- Define title -->
+    <title>Hugo Schott</title>
+
+    <!-- Include favicon. Use, e.g., https://favicon.io/ -->
+    <link rel="icon" type="image/png" href="../../bucketHat.png" sizes="32x32"/>
+
+    <!-- Include style sheets -->
+    <link rel="stylesheet" href="../../css/publi.css"/>
+    <link rel="stylesheet" href="../../css/index.css"/>
+
+    <!-- Fonts from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link rel="stylesheet" href="../../css/font_google.css"/>
+
+    <!-- Bootstrap -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">
+
+    <!-- Load FontAwesome (for icons) -->
+    <link
+            rel="stylesheet"
+            href="../../css/all.min.css"
+    />
+
+    <!-- Load Academicons (for more icons) -->
+    <link
+            rel="stylesheet"
+            href="../../css/academicons.min.css"
+    />
+
+</head>
+
+<body>
+
+<h1 class="publi_title text-center">
+    Large-scale terrain authoring through <br>
+    interactive erosion simulation
+</h1>
+
+<p class="publi_authors text-center">
+    H. Schott &emsp;
+    A. Paris &emsp;
+    L. Fournier &emsp;
+    E. Guérin &emsp;
+    E. Galin
+</p>
+
+<img class="publi_teaser" src="teaser_uplift.png" width="1000">
+
+<p class="publi_abstract">
+    Large-scale terrains are essential in the definition of virtual worlds. Given
+    the diversity of landforms and the geomorphological complexity, there is
+    a need for authoring techniques offering hydrological consistency without
+    sacrificing user control. In this paper, we bridge the gap between large-
+    scale erosion simulation and authoring into an efficient framework. We
+    set aside modelling in the elevation domain in favour of the uplift domain,
+    and compute emerging reliefs by simulating the stream power erosion. Our
+    simulation relies on a fast yet accurate approximation of drainage area
+    and flow routing to compute the erosion interactively, which allows for
+    incremental authoring. Our model provides landscape artists with tools for
+    shaping mountain ranges and valleys, such as copy-and-paste operations;
+    warping for imitating folds and faults; point and curve elevation constraints
+    to precisely sculpt ridges or carve river networks. It also lends itself to inverse
+    procedural modelling by reconstructing the uplift from an input digital
+    elevation model and allows hydrologically consistent blending between
+    terrain patches.
+</p>
+
+<iframe class="publi_video"
+        src="https://www.youtube.com/embed/gCP7jzcPLyQ">
+</iframe>
+
+
+<footer class="fixed-bottom text-center">
+    <p><!--Źle mówię po polsku--></p>
+</footer>
+</body>
+
+</html>
