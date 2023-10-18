@@ -139,3 +139,21 @@ footer {
 .in_link:hover{
     color: #000000;
 }
+
+.row{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.mini_project{
+    width: 100%;
+    border-color: black;
+}
+
+.project_language{
+    font-style: italic;
+}
+
+.home_bottom_page{
+    padding-top: 30px;
+}
