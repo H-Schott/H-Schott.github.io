@@ -154,6 +154,15 @@ footer {
     font-style: italic;
 }
 
+.bug_row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mini_bug{
+    width:30%;
+}
+
 .home_bottom_page{
     padding-top: 30px;
 }
