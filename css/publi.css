@@ -5,13 +5,25 @@ html {
 }
 
 .publi_title{
-    padding: 100px;
+    padding: 65px;
     font-weight: bolder;
 }
 
 .publi_authors{
     font-style: italic;
     padding-bottom: 50px;
+}
+
+.publi_buttons{
+    padding-bottom: 50px;
+}
+
+.publi_button{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 1px;
+    border-color: black;
+    background-color: whitesmoke;
 }
 
 .publi_teaser{
@@ -34,5 +46,19 @@ html {
     display: block;
     margin: 0 auto;
     padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.publi_bibtex{
+    background-color: rgb(226, 226, 226);
+    width: fit-content;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 0 auto;
+    font-family: "Lucida Sans Typewriter";
+    font-size: small;
+}
+
+.publi_bottom_page{
     padding-bottom: 50px;
 }

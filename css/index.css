@@ -108,6 +108,10 @@ footer {
     font-weight: bolder;
 }
 
+.mini_publi{
+    width: 100%;
+}
+
 .mini_publi_title{
     font-size: x-large;
     text-decoration: underline;
