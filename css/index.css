@@ -79,7 +79,20 @@ body {
 }
 
 .right_main_col{
+    float: left;
     width: 65% !important;
+}
+
+.left_secondary_col{
+    float: left;
+    width: 35% !important;
+
+}
+
+.right_secondary_col{
+    float: left;
+    width: 65% !important;
+    padding-left: 5%;
 }
 
 footer {
@@ -156,6 +169,20 @@ footer {
     margin: auto !important;
 }
 
+.mid_row{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: #e8e8e8;
+    width: 100%;
+    height: fit-content !important;
+}
+
+.mid_row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 .mini_project{
     width: 100%;
     border-color: black;
@@ -171,7 +198,8 @@ footer {
 }
 
 .mini_bug{
-    width:30%;
+    width:45%;
+    padding-right: 5%;
 }
 
 .home_bottom_page{
