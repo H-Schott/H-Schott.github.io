@@ -5,17 +5,17 @@
         <description>Recent content in Categories on Hugo Schott</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://starter.stack.cai.im/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://starter.stack.cai.im/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Virtual Terrain</title>
+            <link>https://starter.stack.cai.im/categories/virtual-terrain/</link>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>https://starter.stack.cai.im/categories/virtual-terrain/</guid>
+            <description></description>
+        </item><item>
             <title>Signed Distance Field</title>
             <link>https://starter.stack.cai.im/categories/signed-distance-field/</link>
             <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
             <guid>https://starter.stack.cai.im/categories/signed-distance-field/</guid>
-            <description></description>
-        </item><item>
-            <title>Virtual Terrain</title>
-            <link>https://starter.stack.cai.im/categories/virtual-terrain/</link>
-            <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-            <guid>https://starter.stack.cai.im/categories/virtual-terrain/</guid>
             <description></description>
         </item></channel>
 </rss>

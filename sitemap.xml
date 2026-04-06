@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://starter.stack.cai.im/p/isos/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://starter.stack.cai.im/p/spherecarving/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://starter.stack.cai.im/p/desc/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://starter.stack.cai.im/p/mserosion/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
@@ -12,27 +18,25 @@
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://starter.stack.cai.im/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://starter.stack.cai.im/categories/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://starter.stack.cai.im/post/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://starter.stack.cai.im/categories/virtual-terrain/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://starter.stack.cai.im/categories/signed-distance-field/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://starter.stack.cai.im/categories/virtual-terrain/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://starter.stack.cai.im/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://starter.stack.cai.im/publications/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://starter.stack.cai.im/links/</loc>
   </url><url>
     <loc>https://starter.stack.cai.im/search/</loc>
   </url><url>
